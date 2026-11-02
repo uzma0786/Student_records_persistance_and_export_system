@@ -1,0 +1,7 @@
+2026-11-01 14:04:34.183037 - Student s1 added
+2026-11-01 14:05:08.907202 - Student s2 added
+2026-11-01 14:05:33.026950 - Student s3 added
+2026-11-01 14:06:01.302379 - student record exported to CSV
+This line is writen use write().
+First line is written using writelines(),
+Second line is written using writelines().
